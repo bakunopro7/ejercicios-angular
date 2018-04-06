@@ -24,7 +24,10 @@ export class FrutaComponent{
         this.nombre = 'jesus';
     }
  
-    ngOnInit(){//funcion que inicializa desde el constructor
-
-    }
+    // ngOnInit(){//funcion que inicializa desde el constructor
+    //     //variables y alcanza
+    //     var uno=8;
+    //         //let actua desntro de bloque
+    //         //var es de ambito global
+    // }
 }
